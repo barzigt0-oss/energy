@@ -4,6 +4,8 @@ author: "George Barzizza"
 date: "2026-02-10"
 output: html_document
 ---
+## **Introduction**
+The UN enacted _17 Sustainable Development Goals_ for their 2030 agenda to further the fight against climate action and bring prosperity to all countries involved. The following visualizations incorporate a handful of these goals (i.e., affordable and clean energy,decent work and economic growth, and climate action), delving into energy alternatives, GHG disparities, and other poignant topics.
 ## Renewable Energy Dataset
 ```{r }
 library(readr)
