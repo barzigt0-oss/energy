@@ -167,3 +167,8 @@ co2gdp <- ggplot(carbon_gdp,
 ggplotly(co2gdp)
 ```
 I was curious if GDP per capita and CO2 per capita were directly correlated. I selected a handful of different countries with widely distributed GDPs and compared. Although there appear to be a positive correlation trend in some countries (i.e., Spain, Argentine, Japn, and Mexico), other countries seem to stagnate. Data sources include [this](https://www.globalcarbonproject.org/carbonbudget/) and r's stock 'gapminder'.
+
+## Takeaways
+
+- I was glad to put working knowledge into a tangible piece of work that can be shared with others
+- When I ran in to issues, I was happy to see their is a plethora of code meant to troubleshoot post-knit renderings
